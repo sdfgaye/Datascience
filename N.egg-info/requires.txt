@@ -1,0 +1,8 @@
+seaborn
+kagglehub
+ipykernel
+polars
+numpy
+ipywidgets
+pyarrow
+scikit-learn

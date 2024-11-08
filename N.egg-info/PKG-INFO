@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: N
+Version: 0.1
+Author: Souleymane
+Requires-Dist: seaborn
+Requires-Dist: kagglehub
+Requires-Dist: ipykernel
+Requires-Dist: polars
+Requires-Dist: numpy
+Requires-Dist: ipywidgets
+Requires-Dist: pyarrow
+Requires-Dist: scikit-learn
